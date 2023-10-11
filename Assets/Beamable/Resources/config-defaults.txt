@@ -1,0 +1,8 @@
+{
+    "cid": "1500558392720406",
+    "alias": "ali-test",
+    "pid": "DE_1500558392720409",
+    "platform": "",
+    "socket": "",
+    "containerPrefix": ""
+}
